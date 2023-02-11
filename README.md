@@ -1,10 +1,6 @@
-[Hola mundo, soy Jesari, una persona que aprendió, aprende y seguirá aprendiendo]
-٩(˘◡˘)۶ 🎶
+Un novato en el mundo de la programación con una gran determinación.
 
-[No hay nadie ni nada que me detenga en mi camino]
-ᕙ(`▿´)ᕗ 🌟
-
-Si deseas dejar algún mensaje, puedes contactarme por aqui: loprey18@gmail.com c(ˆ▿ˆc)✨
+Interesado en el ámbito de la inteligencia artificial.
 
 <!---
 Jesari-LR/Jesari-LR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
